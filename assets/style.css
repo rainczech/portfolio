@@ -1,0 +1,45 @@
+body {
+    margin-top: 100px;
+}
+
+footer {
+    text-align: center;
+    font-family: "Raleway", sans-serif;
+}
+
+.profilepic {
+    height: 375px;
+    border-radius: 75px 30px;
+    /* width: 45px; */
+}
+.title {
+    font-family:'Raleway', sans-serif; 
+    font-size: 20pt;
+    padding-top: 28pt;
+    margin-left: 15pt;
+}
+.navbar-brand {
+    font-family: 'Homemade Apple', cursive;
+    font-size: 42pt;
+    color: rebeccapurple;
+}
+
+.intro {
+    margin-top: 40px;
+}
+
+.card-header {
+    font-family: 'Homemade Apple', cursive;
+    color: rebeccapurple;
+    font-size: 30px;
+    background: white;
+    text-align: right;
+    border: none;
+}
+
+.card {
+    border: none;
+}
+
+/* font-family: 'Raleway', sans-serif;
+font-family: 'Homemade Apple', cursive; */
