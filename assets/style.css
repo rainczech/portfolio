@@ -10,15 +10,17 @@ footer {
 .profilepic {
     height: 375px;
     border-radius: 75px 30px;
-    /* width: 45px; */
 }
 .title {
     font-family:'Raleway', sans-serif; 
     font-size: 20pt;
-    padding-top: 28pt;
+    /* padding-top: 28pt; */
     margin-left: 15pt;
 }
-.navbar-brand {
+.navbar {
+    background-color: white;
+}
+.name {
     font-family: 'Homemade Apple', cursive;
     font-size: 42pt;
     color: rebeccapurple;
