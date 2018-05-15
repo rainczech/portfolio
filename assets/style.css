@@ -1,5 +1,6 @@
 body {
     margin-top: 100px;
+    /* background-color: ghostwhite; */
 }
 
 hr {
@@ -9,6 +10,11 @@ footer {
     text-align: center;
     font-family: "Raleway", sans-serif;
     color: rebeccapurple;
+    margin-top: 30pt;
+}
+
+p {
+    font-family: 'Raleway', sans-serif;
 }
 
 .profilepic {
