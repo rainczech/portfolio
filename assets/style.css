@@ -2,27 +2,48 @@ body {
     margin-top: 100px;
 }
 
+hr {
+    background-color: rebeccapurple;
+}
 footer {
     text-align: center;
     font-family: "Raleway", sans-serif;
+    color: rebeccapurple;
 }
 
 .profilepic {
-    height: 375px;
+    max-height: 350px;
+    max-width: auto;
     border-radius: 75px 30px;
 }
 .title {
     font-family:'Raleway', sans-serif; 
     font-size: 20pt;
-    /* padding-top: 28pt; */
+    padding-top: 20pt;
     margin-left: 15pt;
 }
 .navbar {
     background-color: white;
 }
+
+.navbar-nav {
+    float: right;
+}
+
+.nav-item {
+    font-family: 'Homemade Apple', cursive;
+    color: rebeccapurple;
+}
 .name {
     font-family: 'Homemade Apple', cursive;
     font-size: 42pt;
+    color: rebeccapurple;
+}
+.navbar-toggler {
+    border: none; 
+}
+
+.navbar-toggler-icon {
     color: rebeccapurple;
 }
 
@@ -43,5 +64,21 @@ footer {
     border: none;
 }
 
+.card-text {
+    font-family: 'Raleway', sans-serif;
+}
+
+#skillsTitle { 
+    text-align: left;
+}
+
+#contactTitle {
+    text-align: left;
+}
+
 /* font-family: 'Raleway', sans-serif;
 font-family: 'Homemade Apple', cursive; */
+
+fab fa-[name] 3x or 5x
+
+fa-spin rotates
