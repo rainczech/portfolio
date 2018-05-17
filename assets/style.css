@@ -9,8 +9,9 @@ hr {
 footer {
     text-align: center;
     font-family: "Raleway", sans-serif;
-    color: rebeccapurple;
+    color: #CC30BF;
     margin-top: 30pt;
+    background-color: whitesmoke;
 }
 
 p {
@@ -18,9 +19,8 @@ p {
 }
 
 .profilepic {
-    max-height: 350px;
-    max-width: auto;
-    border-radius: 75px 30px;
+    height: 275px;
+    border-radius: 100%;
 }
 .title {
     font-family:'Raleway', sans-serif; 
@@ -29,21 +29,24 @@ p {
     margin-left: 15pt;
 }
 .navbar {
-    background-color: white;
+    background-color: whitesmoke;
+    border-bottom: 1px rebeccapurple solid;
 }
 
-.navbar-nav {
-    float: right;
-}
 
+.navbar-light .navbar-nav .nav-link {
+    color: rebeccapurple;
+}
 .nav-item {
     font-family: 'Homemade Apple', cursive;
-    color: rebeccapurple;
+    font-size: 20px;
 }
 .name {
     font-family: 'Homemade Apple', cursive;
     font-size: 42pt;
     color: rebeccapurple;
+    padding-left: 15px;
+    padding-top: 10px;
 }
 .navbar-toggler {
     border: none; 
@@ -81,6 +84,7 @@ p {
 #contactTitle {
     text-align: left;
 }
+
 
 /* font-family: 'Raleway', sans-serif;
 font-family: 'Homemade Apple', cursive; */
