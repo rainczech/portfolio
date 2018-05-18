@@ -14,7 +14,19 @@ footer {
     background-color: whitesmoke;
 }
 
+h2 {
+    font-family: 'Raleway', sans-serif;
+    font-size: 20pt;
+    text-align: center;
+}
+
 p {
+    font-family: 'Raleway', sans-serif;
+    font-size: 18px;
+}
+
+ul {
+    text-align: center;
     font-family: 'Raleway', sans-serif;
 }
 
