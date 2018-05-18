@@ -72,6 +72,15 @@ ul {
     margin-top: 40px;
 }
 
+a.offset { 
+    display: block; 
+    position: relative;
+ 	/* content: " ";  */
+  	height: 125px;      
+    margin-top: -125px;
+    visibility: hidden; 
+}
+
 .card-header {
     font-family: 'Homemade Apple', cursive;
     color: rebeccapurple;
@@ -100,7 +109,3 @@ ul {
 
 /* font-family: 'Raleway', sans-serif;
 font-family: 'Homemade Apple', cursive; */
-
-fab fa-[name] 3x or 5x
-
-fa-spin rotates
