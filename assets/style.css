@@ -16,7 +16,7 @@ footer {
 
 h2 {
     font-family: 'Raleway', sans-serif;
-    font-size: 20pt;
+    font-size: 18pt;
     text-align: center;
 }
 
@@ -52,6 +52,8 @@ ul {
 .nav-item {
     font-family: 'Homemade Apple', cursive;
     font-size: 20px;
+    margin-left:10px;
+    margin-right: 10px;
 }
 .name {
     font-family: 'Homemade Apple', cursive;
@@ -107,5 +109,3 @@ a.offset {
 }
 
 
-/* font-family: 'Raleway', sans-serif;
-font-family: 'Homemade Apple', cursive; */
