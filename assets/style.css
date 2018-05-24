@@ -30,6 +30,12 @@ ul {
     font-family: 'Raleway', sans-serif;
 }
 
+a {
+    color: rebeccapurple;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
 .profilepic {
     height: 275px;
     border-radius: 100%;
@@ -106,10 +112,19 @@ a.offset {
 }
 
 .projectBody {
-    background-color: #CC30BF;
-    color: white;
+    background-color: whitesmoke;
+    color: #CC30BF;
+    /* border: solid 1px rebeccapurple; */
 }
 
+.view {
+    text-align: center;
+}
+
+.vl{
+    height: 25px;
+    border: solid 1px rebeccapurple;
+}
 
 #skillsTitle { 
     text-align: left;
