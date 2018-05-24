@@ -57,7 +57,7 @@ ul {
 }
 .name {
     font-family: 'Homemade Apple', cursive;
-    font-size: 42pt;
+    font-size: 36pt;
     color: rebeccapurple;
     padding-left: 15px;
     padding-top: 10px;
@@ -77,7 +77,6 @@ ul {
 a.offset { 
     display: block; 
     position: relative;
- 	/* content: " ";  */
   	height: 125px;      
     margin-top: -125px;
     visibility: hidden; 
@@ -99,6 +98,18 @@ a.offset {
 .card-text {
     font-family: 'Raleway', sans-serif;
 }
+
+.projectHead {
+    display: block;
+    margin: auto;
+    text-align: center;
+}
+
+.projectBody {
+    background-color: #CC30BF;
+    color: white;
+}
+
 
 #skillsTitle { 
     text-align: left;
