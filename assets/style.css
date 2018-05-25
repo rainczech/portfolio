@@ -114,7 +114,6 @@ a.offset {
 .projectBody {
     background-color: whitesmoke;
     color: #CC30BF;
-    /* border: solid 1px rebeccapurple; */
 }
 
 .view {
@@ -124,6 +123,10 @@ a.offset {
 .vl{
     height: 25px;
     border: solid 1px rebeccapurple;
+}
+
+.contactList {
+    text-align: left;
 }
 
 #skillsTitle { 
