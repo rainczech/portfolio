@@ -133,6 +133,11 @@ a.offset {
     text-align: left;
 }
 
+.material-icons {
+    font-size: 60px;
+    color: black;
+}
+
 #skillsTitle { 
     text-align: left;
 }
@@ -146,3 +151,6 @@ a.offset {
     margin-right: 0px;
 }
 
+#name {
+    display: block;
+}
