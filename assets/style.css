@@ -136,6 +136,11 @@ a.offset {
 .material-icons {
     font-size: 60px;
     color: black;
+    line-height: 0.7;
+}
+
+i.material-icons {
+    margin-bottom: -20px;
 }
 
 #skillsTitle { 
@@ -154,3 +159,10 @@ a.offset {
 #name {
     display: block;
 }
+ #emailIcon {
+     line-height: 0.7;
+ }
+
+ #icon {
+     margin-bottom: 12px;
+ }
