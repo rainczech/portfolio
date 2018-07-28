@@ -22,7 +22,7 @@ h2 {
 
 p {
     font-family: 'Raleway', sans-serif;
-    font-size: 18px;
+    font-size: 16px;
 }
 
 ul {
@@ -69,7 +69,8 @@ a {
     padding-top: 10px;
 }
 .navbar-toggler {
-    border: none; 
+    border: none;
+    text-align: right; 
 }
 
 .navbar-toggler-icon {
